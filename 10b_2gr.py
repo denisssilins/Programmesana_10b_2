@@ -11,7 +11,7 @@ Rimare Sabîne
 6 	
 Sidorenko Aleksandrs
 7 
-print(5+6)
+print(5+6)*2
 #Deniss Siliņš
 Siïiòð Deniss
 8 	
